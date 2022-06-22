@@ -1,14 +1,5 @@
 # AGP Campus Virtual
-
-
-## TODO
-### Major
-- Deploy
-- Apply domain name
-
-#### Acceptable issues
-- Fix PDFKit issue: not able to load fonts from the same subset. - non-mission-critical
-
+Campus virtual is a learning tool aimed at all the public so they can learn about cancer, what it is, how it can be treated and to identify early signs of the disease. This tool was developed so educational institutions can use it as a learning aid to teach about cancer.
 
 
 ## Folder structure
